@@ -1,2 +1,2 @@
-text3
+This is an example text file.
 text3
