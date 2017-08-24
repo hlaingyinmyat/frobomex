@@ -2,3 +2,5 @@ This is an example2.
 Change text_02 file.
 This is an example3.
 Change this file.
+This is a text file.
+text1
